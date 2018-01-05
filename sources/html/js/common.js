@@ -32,3 +32,13 @@ function hide_main_loader() {
     $('#container').removeClass('hidden');
     $('#main_loader').addClass('hidden');
 }
+
+/**
+ * Scroll to top of page
+ */
+function scroll_to_top_page(callback) {
+    if (typeof callback === 'undefined' || typeof callback !== 'function') {
+        callback = function(){};
+    }
+    $('html, body').animate({scrollTop: 0}, 'slow', callback);
+}
