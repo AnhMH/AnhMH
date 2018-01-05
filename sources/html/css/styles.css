@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 5, 2018, 9:14:26 AM
+    Author     : anhmh
+*/
+
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif !important;
+    font-size: 100%;
+    font-weight: 500;
+}
+
+body {
+    background: #fff;
+    color: #000;
+    overflow-x: hidden;
+}
+
+a {
+    outline: none !important;
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border: none;
+    vertical-align: top;
+}
+
+/* Non-Retina */
+@media screen and (-webkit-max-device-pixel-ratio: 1) {
+    .crisp {
+        image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+        image-rendering: -moz-crisp-edges;          /* Firefox                        */
+        image-rendering: -o-crisp-edges;            /* Opera                          */
+        image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+        image-rendering: pixelated;                 /* Chrome                         */
+        image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+        -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+    }
+}
+
+/* Style place holder */
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #A5A4A4;
+    font-weight: normal !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #A5A4A4;
+    font-weight: normal !important;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #A5A4A4;
+    font-weight: normal !important;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #A5A4A4 !important;
+    font-weight: normal !important;
+}
+
+/* Main loader */
+#main_loader {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    z-index: 1000;
+}
+#main_loader div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+}
