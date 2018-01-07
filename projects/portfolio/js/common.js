@@ -9,7 +9,9 @@
  */
 $(window).on('load', function () {
     // Hide main loader when page loaded
-    hide_main_loader();
+    setTimeout(function () {
+        hide_main_loader();
+    }, 2000);
 });
 
 /**
@@ -30,7 +32,13 @@ function hide_main_loader() {
     }
 
     $('#container').removeClass('hidden');
-    $('#main_loader').addClass('hidden');
+    $('#main_loader .main_loader_img, #main_loader .loader').addClass('hidden');
+    $('#main_loader .bg_left').css({left:'-100%'});
+    $('#main_loader .bg_right').css({right:'-100%'});
+    setTimeout(function () {
+        $('#main_loader').addClass('hidden');
+    }, 2000);
+    playAudio();
 }
 
 /**
@@ -72,4 +80,17 @@ function scrolling() {
             });
         } // End if
     });
+}
+
+// Play audio
+function playAudio(pause) {
+    if (typeof pause === 'undefined') {
+        pause = false;
+    }
+    var x = document.getElementById("bg_audio");
+    if (pause) {
+        x.pause();
+    } else {
+        x.play();
+    }
 }
