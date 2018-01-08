@@ -4,6 +4,29 @@
  * and open the template in the editor.
  */
 
+var is_mobile = isMobile();
+
+/**
+ * Page loaded event
+ */
+$(document).ready(function () {
+    scrolling();
+    if (is_mobile) {
+        $('.wow').attr('data-wow-delay', '0.3s');
+    }
+    
+    var win = $(window);
+    win.on("scroll", function () {
+        var wScrollTop  = $(window).scrollTop();  
+        
+        if (wScrollTop > 150) {
+            $("#header").addClass("shrink");
+        } else {
+            $("#header").removeClass("shrink");
+        }
+    });
+});
+
 /**
  * Page loaded event
  */
@@ -39,7 +62,56 @@ function hide_main_loader() {
         $('#main_loader').addClass('hidden');
     }, 2000);
     playAudio();
+    
+    // WOW animation
+    initWow();
 }
+
+/**
+ * INit WOW animation
+ */
+var initWow = function () {
+    var timeout = 10;
+    
+    setTimeout(function () {
+        fixAnimationMobile();
+        
+        wow = new WOW({
+            boxClass: 'wow',
+            animateClass: 'animated',
+            offset: 0,
+            mobile: true
+        });
+        wow.init();
+    }, timeout);
+};
+
+/**
+ * Fix animation for Mobile
+ */
+var fixAnimationMobile = function () {
+    // Fix time delay for mobile
+    if (getInnerWidth(true) <= 750) {
+        $('[data-wow-delay-mobile]').each(function () {
+            $(this).attr('data-wow-delay', $(this).attr('data-wow-delay-mobile'));
+        });
+    }
+    
+    /*if (is_mobile || getInnerWidth(true) <= 750) {
+        $('.fadeInUp').each(function () {
+            $(this).removeClass('fadeInUp').addClass('fadeInUpMobile');
+        });
+    } else {
+        $('.fadeInUpMobile').each(function () {
+            $(this).removeClass('fadeInUpMobile').addClass('fadeInUp');
+        });
+    }*/
+
+    // AnhMH 2018-01-03 Fix for IE
+    /*if (typeof wow !== 'undefined' && wow) {
+        wow.resetStyle();
+    }*/
+};
 
 /**
  * Scroll to top of page
@@ -50,11 +122,6 @@ function scroll_to_top_page(callback) {
     }
     $('html, body').animate({scrollTop: 0}, 'slow', callback);
 }
-
-$(document).ready(function () {
-    scrolling();
-
-});
 
 // Add smooth scrolling to all links in navbar + footer link
 function scrolling() {
