@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Sample\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: admin@hoanganhonline.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "PAGE_TITLE"
+msgstr "HoangAnhOnline.Com"
+
+msgid "META_TITLE"
+msgstr "HoangAnhOnline.Com"
+
+msgid "META_DESCRIPTION"
+msgstr "HoangAnhOnline.Com"
+
+msgid "META_KEYWORDS"
+msgstr "HoangAnhOnline.Com"
+
+msgid "MENU_ABOUT"
+msgstr "About"
+
+msgid "MENU_SERVICES"
+msgstr "Services"
+
+msgid "MENU_SKILLS"
+msgstr "Skills"
+
+msgid "MENU_PORTFOLIOS"
+msgstr "Portfolios"
+
+msgid "MENU_CONTACT"
+msgstr "Contact"
+
+msgid "HOME_TXT_1"
+msgstr "HI! I'M JOHN DOE"
+
+msgid "HOME_TXT_2"
+msgstr "Lorem Ipsum is simply dummy text of the"
+
+msgid "ABOUT_TITLE"
+msgstr "About Me"
+
+msgid "ABOUT_SUB_TITLE"
+msgstr "SOME WORDS ABOUT ME"
+
+msgid "ABOUT_CONTENT"
+msgstr "Thanks for your interest!<br/>My name is asAshish. I am a web developer with strong Educational background and working experience. Over the last 5 years I have been working on a wide range of CRMs, various E commerce websites  and Web Application using the most up-to-date tools. I am also expert in developing web services that help you to exchange information among various platforms.<br/>My main expertise is core PHP - working on back-end development using MySql, familiar with jQuery, mastered with AngularJS. I have developed many websites using Joomla platform, both with templates and from scratch.<br/>I have 100% satisfied clients who give me proud to do more. I am always motivated with new projects and my positive attitude supports my productivity. I am young but with professional maturity and team work ethic.I have a reputed profile on upwork with 93% job success.<br/>You can also check my upwork profile here ~0116f73dd3e38fbc02 .<br/>Looking forward for the next challenge!"
+
+msgid "SERVICES_TITLE"
+msgstr "my services"
+
+msgid "SERVICE_1_TITLE"
+msgstr "SOME WORDS ABOUT ME"
+
+msgid "SERVICE_1_CONTENT"
+msgstr "Lorem Ipsum is simply dummy text of the printing and"
+
+msgid "SERVICE_2_TITLE"
+msgstr "SOME WORDS ABOUT ME"
+
+msgid "SERVICE_2_CONTENT"
+msgstr "Lorem Ipsum is simply dummy text of the printing and"
+
+msgid "SERVICE_3_TITLE"
+msgstr "SOME WORDS ABOUT ME"
+
+msgid "SERVICE_3_CONTENT"
+msgstr "Lorem Ipsum is simply dummy text of the printing and"
+
+msgid "SKILLS_TITLE"
+msgstr "My Awesome Skills"
+
+msgid "SKILLS_SUB_TITLE_1"
+msgstr "Web Development"
+
+msgid "SKILLS_SUB_TITLE_2"
+msgstr "Web Design"
+
+msgid "CONTACT_TITLE"
+msgstr "Contact Me"
+
+msgid "CONTACT_NAME_PLACEHOLDER"
+msgstr "Your Name..."
+
+msgid "CONTACT_EMAIL_PLACEHOLDER"
+msgstr "Your Email..."
+
+msgid "CONTACT_MESSAGE_PLACEHOLDER"
+msgstr "Your Message..."
+
+msgid "CONTACT_BTN"
+msgstr "Send message"
