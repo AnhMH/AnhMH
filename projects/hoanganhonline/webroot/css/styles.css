@@ -254,6 +254,9 @@ h1, h2, h3, h4, h5, h6 {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.jumbotron p {
+    margin-top: 20px;
+}
 .snow-container {
     height: 100%;
 }
@@ -343,6 +346,8 @@ h1, h2, h3, h4, h5, h6 {
     padding: 50px;
     background-color: rgba(34,34,34,0.7);
     transition: all 0.5s ease;
+    min-height: 390px;
+    margin-bottom: 40px;
 }
 .service:hover {
     box-shadow: 0 0 10px #fff;

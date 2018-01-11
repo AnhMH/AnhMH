@@ -14,4 +14,88 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "PAGE_TITLE"
-msgstr "HoangAnhOnline.com"
+msgstr "HoangAnhOnline.Com"
+
+msgid "META_TITLE"
+msgstr "HoangAnhOnline.Com"
+
+msgid "META_DESCRIPTION"
+msgstr "HoangAnhOnline.Com"
+
+msgid "META_KEYWORDS"
+msgstr "HoangAnhOnline.Com"
+
+msgid "MENU_ABOUT"
+msgstr "Giới thiệu"
+
+msgid "MENU_SERVICES"
+msgstr "Dịch vụ"
+
+msgid "MENU_SKILLS"
+msgstr "Kỹ năng"
+
+msgid "MENU_PORTFOLIOS"
+msgstr "Dự án"
+
+msgid "MENU_CONTACT"
+msgstr "Liên hệ"
+
+msgid "HOME_TXT_1"
+msgstr "HI! I'M JOHN DOE"
+
+msgid "HOME_TXT_2"
+msgstr "Lorem Ipsum is simply dummy text of the"
+
+msgid "ABOUT_TITLE"
+msgstr "Giới thiệu"
+
+msgid "ABOUT_SUB_TITLE"
+msgstr "SOME WORDS ABOUT ME"
+
+msgid "ABOUT_CONTENT"
+msgstr "Thanks for your interest!<br/>My name is asAshish. I am a web developer with strong Educational background and working experience. Over the last 5 years I have been working on a wide range of CRMs, various E commerce websites  and Web Application using the most up-to-date tools. I am also expert in developing web services that help you to exchange information among various platforms.<br/>My main expertise is core PHP - working on back-end development using MySql, familiar with jQuery, mastered with AngularJS. I have developed many websites using Joomla platform, both with templates and from scratch.<br/>I have 100% satisfied clients who give me proud to do more. I am always motivated with new projects and my positive attitude supports my productivity. I am young but with professional maturity and team work ethic.I have a reputed profile on upwork with 93% job success.<br/>You can also check my upwork profile here ~0116f73dd3e38fbc02 .<br/>Looking forward for the next challenge!"
+
+msgid "SERVICES_TITLE"
+msgstr "Dịch vụ"
+
+msgid "SERVICE_1_TITLE"
+msgstr "Phát triển website"
+
+msgid "SERVICE_1_CONTENT"
+msgstr "As a full stack web development company, we create custom web applications for all industries, including real estate, e-commerce, education, healthcare, HR management, travel and others."
+
+msgid "SERVICE_2_TITLE"
+msgstr "Mobile Responsive"
+
+msgid "SERVICE_2_CONTENT"
+msgstr "Your site will look amazing no matter what type of device your customers are viewing it on. Our designs dynamically adjust for tablet and smartphone users."
+
+msgid "SERVICE_3_TITLE"
+msgstr "Web and UI design"
+
+msgid "SERVICE_3_CONTENT"
+msgstr "We offer you a freedom to implement your design ideas. Combine your dreams with our designers' skills and you will get a unique design and compelling user experience for your website."
+
+msgid "SKILLS_TITLE"
+msgstr "My Awesome Skills"
+
+msgid "SKILLS_SUB_TITLE_1"
+msgstr "Web Development"
+
+msgid "SKILLS_SUB_TITLE_2"
+msgstr "Web Design"
+
+msgid "CONTACT_TITLE"
+msgstr "Contact Me"
+
+msgid "CONTACT_NAME_PLACEHOLDER"
+msgstr "Your Name..."
+
+msgid "CONTACT_EMAIL_PLACEHOLDER"
+msgstr "Your Email..."
+
+msgid "CONTACT_MESSAGE_PLACEHOLDER"
+msgstr "Your Message..."
+
+msgid "CONTACT_BTN"
+msgstr "Send message"

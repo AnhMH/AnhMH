@@ -7,7 +7,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span> 
                 </button>
-                <a class="navbar-brand" href="#">Logo</a>
+<!--                <ul class="languages">
+                    <li class="language"><a href="<?php echo $BASE_URL;?>?lang=vi">VN</a></li>
+                    <li class="language"><a href="<?php echo $BASE_URL;?>?lang=en">EN</a></li>
+                </ul>-->
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">

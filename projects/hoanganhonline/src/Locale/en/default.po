@@ -41,10 +41,10 @@ msgid "MENU_CONTACT"
 msgstr "Contact"
 
 msgid "HOME_TXT_1"
-msgstr "HI! I'M JOHN DOE"
+msgstr "Welcome to HoangAnhOnline.Com"
 
 msgid "HOME_TXT_2"
-msgstr "Lorem Ipsum is simply dummy text of the"
+msgstr "Custom software development for website"
 
 msgid "ABOUT_TITLE"
 msgstr "About Me"
@@ -53,7 +53,7 @@ msgid "ABOUT_SUB_TITLE"
 msgstr "SOME WORDS ABOUT ME"
 
 msgid "ABOUT_CONTENT"
-msgstr "Thanks for your interest!<br/>My name is asAshish. I am a web developer with strong Educational background and working experience. Over the last 5 years I have been working on a wide range of CRMs, various E commerce websites  and Web Application using the most up-to-date tools. I am also expert in developing web services that help you to exchange information among various platforms.<br/>My main expertise is core PHP - working on back-end development using MySql, familiar with jQuery, mastered with AngularJS. I have developed many websites using Joomla platform, both with templates and from scratch.<br/>I have 100% satisfied clients who give me proud to do more. I am always motivated with new projects and my positive attitude supports my productivity. I am young but with professional maturity and team work ethic.I have a reputed profile on upwork with 93% job success.<br/>You can also check my upwork profile here ~0116f73dd3e38fbc02 .<br/>Looking forward for the next challenge!"
+msgstr "Thanks for your interest!<br/>My name is Hoang Anh. I am a web developer with strong Educational background and working experience. Over the last 4 years I have been working on a wide range of various E-commerce websites and Web Application using the most up-to-date tools. I am also expert in developing web services that help you to exchange information among various platforms.<br/>My main expertise is core PHP - working on back-end development using MySql, familiar with jQuery. I have developed many websites using CakePHP and FuelPHP framework, both with templates and from scratch.<br/>I have 100% satisfied clients who give me proud to do more. I am always motivated with new projects and my positive attitude supports my productivity. I am young but with professional maturity and team work ethic.I have a reputed profile on upwork with 93% job success.<br/>Looking forward for the next challenge!"
 
 msgid "SERVICES_TITLE"
 msgstr "my services"
@@ -75,6 +75,24 @@ msgstr "Web and UI design"
 
 msgid "SERVICE_3_CONTENT"
 msgstr "We offer you a freedom to implement your design ideas. Combine your dreams with our designers' skills and you will get a unique design and compelling user experience for your website."
+
+msgid "SERVICE_4_TITLE"
+msgstr "Quality assurance"
+
+msgid "SERVICE_4_CONTENT"
+msgstr "We perform QA testing for websites, including UI testing, functional testing, load and stress testing."
+
+msgid "SERVICE_5_TITLE"
+msgstr "Consulting and audit"
+
+msgid "SERVICE_5_CONTENT"
+msgstr "Refer to our engineers for an expert advice. We can analyze your existing project and find out how to make it meet your expectations."
+
+msgid "SERVICE_6_TITLE"
+msgstr "Software solutions"
+
+msgid "SERVICE_6_CONTENT"
+msgstr "Need an industry specific software for your business? We can build custom software solutions to effectively manage all your business processes."
 
 msgid "SKILLS_TITLE"
 msgstr "My Awesome Skills"

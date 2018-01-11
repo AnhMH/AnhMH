@@ -31,16 +31,16 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
         <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/snow.css"/>
         <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/animate.css"/>
-        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/styles.css"/>
-        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/mobile_styles.css" media="only screen and (max-width:750px)"/>
-        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/ie_styles.css"/>
-        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/ff_styles.css"/>
+        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/styles.css?<?php echo $file_version ?>"/>
+        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/mobile_styles.css?<?php echo $file_version ?>" media="only screen and (max-width:750px)"/>
+        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/ie_styles.css?<?php echo $file_version ?>"/>
+        <link rel="stylesheet" href="<?php echo $BASE_URL;?>/css/ff_styles.css?<?php echo $file_version ?>"/>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script src="<?php echo $BASE_URL;?>/js/functions.js"></script>
+        <script src="<?php echo $BASE_URL;?>/js/functions.js?<?php echo $file_version ?>"></script>
         <script src="<?php echo $BASE_URL;?>/js/wow.min.js"></script>
-        <script src="<?php echo $BASE_URL;?>/js/common.js"></script>
+        <script src="<?php echo $BASE_URL;?>/js/common.js?<?php echo $file_version ?>"></script>
     </head>
     <body id="myPage body_<?php echo $controller . '_' . $action; ?>" data-spy="scroll" data-target=".navbar" data-offset="10">
         <div id="container" class="hidden">

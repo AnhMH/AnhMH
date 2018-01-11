@@ -222,3 +222,6 @@ if (Configure::read('debug')) {
 }
 
 define('FILE_VERSION', time());
+
+Configure::write('Config.CookieExpires', '+12 month');
+define('COOKIE_LANGUAGE', 'YourConcial.Front.Cookie.Language');
