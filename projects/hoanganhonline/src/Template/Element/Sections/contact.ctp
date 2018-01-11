@@ -10,14 +10,14 @@
                     <div class="row wow fadeInUp" data-wow-delay="0.6s">
                         <div class="col-sm-6 contact-info">
                             <div class="social-links">
-                                <a href="#" class="facebook "><i class="fa fa-facebook"></i></a>
-                                <a href="#" class="twitter "><i class="fa fa-twitter"></i></a>
-                                <a href="#" class="plus "><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                <a href="<?php echo $faUrl; ?>" class="facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="<?php echo $twUrl; ?>" class="twitter"><i class="fa fa-twitter"></i></a>
+                                <a href="<?php echo $gpUrl; ?>" class="plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="col-sm-6 contact-info">
                             <i class="fa fa-envelope"></i>
-                            <p>info@domain.com<br>contact@domain.com</p>
+                            <p>info@hoanganhonline.com<br>contact@hoanganhonline.com</p>
                         </div>
                     </div>
                     <div class="row wow fadeInUp" data-wow-delay="0.9s">
@@ -35,7 +35,7 @@
                             </div>
                             <div class="load-more text-center">
                                 <button type="submit" class="hvr-shutter-out-horizontal" id="send-form"><?php echo __('CONTACT_BTN');?></button>
-                            </div>                        
+                            </div>
                         </form>
                     </div>
                 </div>

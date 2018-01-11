@@ -117,6 +117,10 @@ class AppController extends Controller
         $this->set('metaLocale', '');
         $this->set('language', 'en');
         
+        $this->set('faUrl', '#');
+        $this->set('twUrl', '#');
+        $this->set('gpUrl', '#');
+        
         // Set default layout
         $this->setLayout();
     }

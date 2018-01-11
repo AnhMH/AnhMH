@@ -59,22 +59,22 @@ msgid "SERVICES_TITLE"
 msgstr "my services"
 
 msgid "SERVICE_1_TITLE"
-msgstr "SOME WORDS ABOUT ME"
+msgstr "Web Development"
 
 msgid "SERVICE_1_CONTENT"
-msgstr "Lorem Ipsum is simply dummy text of the printing and"
+msgstr "As a full stack web development company, we create custom web applications for all industries, including real estate, e-commerce, education, healthcare, HR management, travel and others."
 
 msgid "SERVICE_2_TITLE"
-msgstr "SOME WORDS ABOUT ME"
+msgstr "Mobile Responsive"
 
 msgid "SERVICE_2_CONTENT"
-msgstr "Lorem Ipsum is simply dummy text of the printing and"
+msgstr "Your site will look amazing no matter what type of device your customers are viewing it on. Our designs dynamically adjust for tablet and smartphone users."
 
 msgid "SERVICE_3_TITLE"
-msgstr "SOME WORDS ABOUT ME"
+msgstr "Web and UI design"
 
 msgid "SERVICE_3_CONTENT"
-msgstr "Lorem Ipsum is simply dummy text of the printing and"
+msgstr "We offer you a freedom to implement your design ideas. Combine your dreams with our designers' skills and you will get a unique design and compelling user experience for your website."
 
 msgid "SKILLS_TITLE"
 msgstr "My Awesome Skills"
