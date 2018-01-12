@@ -117,3 +117,9 @@ msgstr "Your Message..."
 
 msgid "CONTACT_BTN"
 msgstr "Send message"
+
+msgid "BTN_DETAIL"
+msgstr "Detail"
+
+msgid "BTN_VIEW_MORE"
+msgstr "View more"
