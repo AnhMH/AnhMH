@@ -25,6 +25,33 @@ $(document).ready(function () {
             $("#header").removeClass("shrink");
         }
     });
+    
+    $('#contact_form').on('submit', function(e){
+        e.preventDefault();
+        var name = $('#contact_name').val();
+        var email = $('#contact_email').val();
+        var message = $('#contact_message').val();
+        var btn = $('#contact_send');
+        var modal = $('#contactModal');
+        $.ajax({
+            type: 'POST',
+            url: BASE_URL + '/ajax/sendcontactmail',
+            data: {
+                name: name,
+                email: email,
+                message: message
+            },
+            beforeSend: function () {
+                btn.button('loading');
+            },
+            success: function (response) {
+                modal.modal({backdrop: "static"});
+            },
+            complete: function () {
+                btn.button('reset');
+            }
+        });
+    });
 });
 
 /**

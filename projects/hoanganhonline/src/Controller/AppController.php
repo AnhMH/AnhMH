@@ -126,9 +126,9 @@ class AppController extends Controller
         $this->set('metaKeywords', __('META_KEYWORDS'));
         $this->set('metaLocale', '');
         
-        $this->set('faUrl', '#');
-        $this->set('twUrl', '#');
-        $this->set('gpUrl', '#');
+        $this->set('faUrl', 'https://www.facebook.com/mai.hoanganh.16');
+        $this->set('twUrl', 'https://twitter.com/mhanhqb1');
+        $this->set('gpUrl', 'https://plus.google.com/u/0/115433181473438293252');
         
         // Set default layout
         $this->setLayout();

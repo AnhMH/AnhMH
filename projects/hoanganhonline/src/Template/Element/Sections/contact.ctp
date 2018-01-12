@@ -21,20 +21,20 @@
                         </div>
                     </div>
                     <div class="row wow fadeInUp" data-wow-delay="0.9s">
-                        <form class="send-form-style" method="post">
+                        <form class="send-form-style" method="post" id="contact_form">
                             <div class="row">
                                 <div class="col-sm-6 col-md-6">
-                                    <input type="text" name="name" id="name" required="required" placeholder="<?php echo __('CONTACT_NAME_PLACEHOLDER');?>">
+                                    <input type="text" name="name" id="contact_name" required="required" placeholder="<?php echo __('CONTACT_NAME_PLACEHOLDER');?>">
                                 </div>
                                 <div class="col-sm-6 col-md-6">
-                                    <input type="email" name="email" id="email" required="required" placeholder="<?php echo __('CONTACT_EMAIL_PLACEHOLDER');?>">
+                                    <input type="email" name="email" id="contact_email" required="required" placeholder="<?php echo __('CONTACT_EMAIL_PLACEHOLDER');?>">
                                 </div>
                                 <div class="col-md-12">
-                                    <textarea id="message" name="message" required="required" placeholder="<?php echo __('CONTACT_MESSAGE_PLACEHOLDER');?>"></textarea>
+                                    <textarea id="contact_message" name="message" required="required" placeholder="<?php echo __('CONTACT_MESSAGE_PLACEHOLDER');?>"></textarea>
                                 </div>
                             </div>
                             <div class="load-more text-center">
-                                <button type="submit" class="hvr-shutter-out-horizontal" id="send-form"><?php echo __('CONTACT_BTN');?></button>
+                                <button data-loading-text="<i class='fa fa-spinner fa-spin '></i> Loading..." type="submit" class="hvr-shutter-out-horizontal" id="contact_send"><?php echo __('CONTACT_BTN');?></button>
                             </div>
                         </form>
                     </div>

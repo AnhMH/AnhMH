@@ -115,6 +115,9 @@ msgstr "Your Email..."
 msgid "CONTACT_MESSAGE_PLACEHOLDER"
 msgstr "Your Message..."
 
+msgid "CONTACT_MESSAGE_THANK_YOU"
+msgstr "Your message was sent and will be responded to as soon as possible.<br/>Thank you for contacting us."
+
 msgid "CONTACT_BTN"
 msgstr "Send message"
 
