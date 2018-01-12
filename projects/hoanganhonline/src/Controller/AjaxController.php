@@ -24,8 +24,9 @@ class AjaxController extends AppController {
             $email = new Email();
             $email
                 ->template('contact', 'default')
+                ->viewVars(['content' => $data])
                 ->emailFormat('html')
-                ->to('contact@hoanganhonline.com')
+                ->to('info@hoanganhonline.com')
 //                ->from('support@hoanganhonline.com')
                 ->send();
         }

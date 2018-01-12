@@ -1,8 +1,6 @@
 <?php
-$content = explode("\n", $content);
-
-foreach ($content as $line):
-    echo '<p> ' . $line . "</p>\n";
+foreach ($content as $k => $line):
+    echo '<p> ' . $k . ': ' . $line . "</p>\n";
 endforeach;
 ?>
 
