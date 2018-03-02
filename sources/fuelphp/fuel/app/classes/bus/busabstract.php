@@ -476,24 +476,6 @@ abstract class BusAbstract {
                 return $this->getResponse(self::ERROR_CODE_INVALED_PARAMETER);
             }
 
-            // check kana
-            $checkKana = $this->checkKanaFormat($data);
-            if (!$checkKana) {
-                return $this->getResponse(self::ERROR_CODE_INVALED_PARAMETER);
-            }
-
-            // check kana
-            $checkHira = $this->checkHiraFormat($data);
-            if (!$checkHira) {
-                return $this->getResponse(self::ERROR_CODE_INVALED_PARAMETER);
-            }
-
-            // check japanese
-            $checkJapanese = $this->checkJapaneseFormat($data);
-            if (!$checkJapanese) {
-                return $this->getResponse(self::ERROR_CODE_INVALED_PARAMETER);
-            }
-
             // check date
             $checkDate = $this->checkDateFormat($data);
             if (!$checkDate) {
@@ -541,48 +523,15 @@ abstract class BusAbstract {
                 return $this->getResponse(self::ERROR_CODE_AUTH_ERROR);
             }
         }
-        
-        // set global setting to config
-        /*$globalSetting = \Model_Setting::get_all(array('type' => 'global'));
-        if (!empty($globalSetting)) {
-            foreach ($globalSetting as $setting) {
-                Config::set($setting['name'], $setting['value']);
-            }
-        }*/
 
         // global process
-        if (!isset($data['language_type'])) {
-            $data['language_type'] = 1;
-        }
         if (empty($data['page']) && !empty($data['limit'])) {
             $data['page'] = 1;
         }
         
-        // AnhMH 2017-11-22 Begin modify
-        $logData = $data;
-        $unsetLog = array(
-            'selfphoto_image_path',
-            'passport_image_path',
-            'signature_image_path',
-            'leader_sign',
-            'doc_rule_imgs_jp',
-            'doc_man_imgs_jp',
-            'doc_rule_imgs_eng',
-            'doc_man_imgs_eng',
-            'doc_rule_imgs_chn',
-            'doc_man_imgs_chn',
-            'doc_rule_imgs_jp_old',
-            'doc_man_imgs_jp_old',
-            'doc_rule_imgs_eng_old',
-            'doc_man_imgs_eng_old',
-            'doc_rule_imgs_chn_old',
-            'doc_man_imgs_chn_old',
-        );
-        foreach ($unsetLog as $ul) {
-            unset($logData[$ul]);
-        }
-        \LogLib::info('input:', __METHOD__, $logData);
-        // End
+        // save log data
+        \LogLib::info('input:', __METHOD__, $data);
+        
         $operateDB = $this->operateDB($data);
         if ($operateDB === false) {
             if ($this->_exception != null) {
@@ -783,81 +732,8 @@ abstract class BusAbstract {
                     return false;
                 }
             }
-//         	if (!empty($data[$field]) && !filter_var($data[$field], FILTER_VALIDATE_EMAIL)) {
-//                 $this->_addError(self::ERROR_CODE_FIELD_FORMAT_EMAIL, $field, $data[$field]);
-//                 $this->_invalid_parameter = $field;
-//                 return false;
-//             }
         }
 
-        return true;
-    }
-
-    /**
-     * Check kana format, will be override at child class if need
-     *
-     * @author diennvt
-     * @param $data Input data
-     * @return bool True if successful, otherwise false
-     */
-    public function checkKanaFormat($data) {
-        foreach ($this->_kana_format as $field) {
-            if (!empty($data[$field])) {
-                $spaces = " " . "　"; // ascii whitespace and multi-byte whitespace
-                $pattern = "/^([{$spaces}ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂ"
-                        . "ッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロ"
-                        . "ヮワヰヱヲンヴヵヶヷヸヹヺ・ーヽヾ]+)$/u";
-                if (!preg_match($pattern, $data[$field])) {
-                    $this->_addError(self::ERROR_CODE_FIELD_FORMAT_KATAKANA, $field, $data[$field]);
-                    $this->_invalid_parameter = $field;
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-
-    /**
-     * Check hiragana and hiragana format, will be override at child class if need
-     *
-     * @author thailh
-     * @param $data Input data
-     * @return bool True if successful, otherwise false
-     */
-    public function checkHiraFormat($data) {
-        foreach ($this->_hira_format as $field) {
-            if (!empty($data[$field])) {
-                $spaces = " " . "　"; // ascii whitespace and multi-byte whitespace
-                $pattern = "/^([{$spaces}ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖ゙゚゛゜ゝゞゟ]+)$/u";
-                if (!preg_match($pattern, $data[$field])) {
-                    $this->_addError(self::ERROR_CODE_FIELD_FORMAT_HIRAGANA, $field, $data[$field]);
-                    $this->_invalid_parameter = $field;
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-
-    /**
-     * Check kana and hiragana format, will be override at child class if need
-     *
-     * @author thailh
-     * @param $data Input data
-     * @return bool True if successful, otherwise false
-     */
-    public function checkJapaneseFormat($data) {
-        foreach ($this->_japanese_format as $field) {
-            if (!empty($data[$field])) {
-                $spaces = " " . "　"; // ascii whitespace and multi-byte whitespace
-                $pattern = "/^([{$spaces}゠ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺ・ーヽヾぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖ゙゚゛゜ゝゞゟ]+)$/u";
-                if (!preg_match($pattern, $data[$field])) {
-                    $this->_addError(self::ERROR_CODE_FIELD_FORMAT_JAPANESE, $field, $data[$field]);
-                    $this->_invalid_parameter = $field;
-                    return false;
-                }
-            }
-        }
         return true;
     }
 
