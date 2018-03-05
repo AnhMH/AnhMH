@@ -119,7 +119,7 @@ class AppController extends Controller
         if ($this->controller == 'ajax') {
             $this->viewBuilder()->layout('ajax');
         } else if (in_array($this->controller, array('home'))) {
-            $this->viewBuilder()->layout('maishop');
+            $this->viewBuilder()->layout('conlatatca');
         } else {
             $this->viewBuilder()->layout('default');
         }
