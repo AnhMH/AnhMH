@@ -325,7 +325,8 @@ return array(
 
         'authorize' => true,
         'unauthorize_url' => array(
-            'versions/check'
+            'versions/check',
+            'admins/login'
         ),
         'admin_authorize_url' => array(),
         'unauthorize_basic_token_url' => array(

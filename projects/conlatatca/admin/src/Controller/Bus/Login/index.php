@@ -50,7 +50,7 @@ if ($this->request->is('post')) {
     if ($form->validate($data)) {
         // Call API to Login
         $param = array(
-            'account' => $data['account'],
+            'email' => $data['account'],
             'password' => $data['password']
         );
         $user = Api::call(Configure::read('API.url_admins_login'), $param);
