@@ -1682,3 +1682,13 @@ Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHa
 
 
 
+2018-03-07 08:36:34 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\anhmh\resources\projects\conlatatca\admin\src\Controller\AppController.php, line 133]
+Request URL: /article
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
