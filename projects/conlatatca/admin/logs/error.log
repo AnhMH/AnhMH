@@ -1,0 +1,1684 @@
+2017-11-28 06:42:00 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /orders/update
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 06:43:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /orders/update
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 06:43:24 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /orders/update
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:07:36 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:07:36 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:13:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:13:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:18:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:18:08 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:19:35 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:19:35 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:23:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:23:26 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:24:27 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:24:27 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:24:42 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:24:42 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:24:58 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:24:58 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:29:19 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:29:20 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:30:34 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:30:34 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:47:43 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:47:43 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:48:10 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:48:10 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:48:40 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:48:41 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:49:09 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:49:09 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:49:45 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 07:49:45 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:17:18 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:17:19 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:18:09 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:18:10 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:18:16 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:18:16 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:18:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:18:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:19:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:19:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:17 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:17 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:28 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:29 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:43 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:43 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:59 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:31:59 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:32:17 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:32:18 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:32:40 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:32:41 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:33:01 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:33:02 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:33:49 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:33:49 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:33:57 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:33:58 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:35:56 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:35:56 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:36:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:36:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:39:05 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:39:05 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:39:11 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:39:11 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:39:16 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:39:16 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:41:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:41:08 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:49:22 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:49:23 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:52:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 08:52:26 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:06:32 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:06:33 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:14:45 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:14:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:18:48 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:18:48 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:19:18 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:19:18 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:19:53 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:19:54 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:20:06 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:20:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:20:57 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:20:58 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:20 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:20 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:30 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:30 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:33 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:33 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:37 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:37 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:41 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:42 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:45 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:49 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:21:50 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:37:20 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:37:21 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:48:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:48:25 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:48:44 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:48:45 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:37 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:38 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:41 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:41 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:48 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:48 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:52 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-28 09:51:52 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 04:34:46 Warning:  App\Lib\Api::call : API Exception
+ - Message : API error
+ - Code : 500
+ - File : C:\xampp\htdocs\hosty\admin\src\Lib\Api.php
+ - Line : 105
+ - Stack trace : 
+#0 C:\xampp\htdocs\hosty\admin\src\Controller\Bus\Products\index.php(49): App\Lib\Api::call('products/list', Array)
+#1 C:\xampp\htdocs\hosty\admin\src\Controller\ProductsController.php(16): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Controller\Controller.php(440): App\Controller\ProductsController->index()
+#3 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\ProductsController))
+#5 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#6 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#7 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#9 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#10 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#11 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(95): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#12 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#13 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 C:\xampp\htdocs\hosty\admin\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 C:\xampp\htdocs\hosty\admin\webroot\index.php(40): Cake\Http\Server->run()
+#16 {main}{"limit":10,"disable":0}
+2017-11-29 04:34:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /products
+Referer URL: http://admin.maishop.localhost/products/update/5
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:48:54 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:48:54 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:50:40 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:50:40 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:50:49 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:50:49 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:54:06 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:54:06 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:54:15 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:54:15 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:57:27 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 06:57:28 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:06:10 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:06:10 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:20 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:20 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:35 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:36 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:45 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:46 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:53 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:10:54 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:00 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:01 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:07 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:17 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:17 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:56 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:11:56 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:25:51 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:25:51 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:25:59 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 07:25:59 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:44:43 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:44:44 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:45:01 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:45:01 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:45:16 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:45:17 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:45:26 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /css/bootstrap.min.css.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-11-29 09:45:27 Error: Fatal Error (1): Call to a member function get() on boolean in [C:\xampp\htdocs\hosty\admin\src\Controller\AppController.php, line 133]
+Request URL: /js/bootstrap-toggle.min.js.map
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
